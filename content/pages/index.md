@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/krys-amon-ttv1pX6tk7o-unsplash.jpg
     image_alt: App preview
-    title: BRITE HOUSE DJ
+    title: Brite House DJ Services
     content: >
       Delivering the **best** mobile sound and light displays in the Metro
       Boston Area.
