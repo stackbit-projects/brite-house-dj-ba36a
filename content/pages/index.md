@@ -6,7 +6,7 @@ sections:
     image: >-
       /images/Simple_Floral_Image_Spring_Quotes_Instagram_Post__2_-removebg-preview.png
     image_alt: App preview
-    title: Brite House DJ
+    title: BRITE HOUSE DJ
     content: >
       Delivering the **best** mobile sound and light displays in the Metro
       Boston Area.
