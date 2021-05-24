@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: BRITE HOUSE DJ
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Transforming your event into a magical experience with the best mobile
+      sound and light displays in the Metro Boston Area. 
     actions:
       - label: Learn More
         url: /features
