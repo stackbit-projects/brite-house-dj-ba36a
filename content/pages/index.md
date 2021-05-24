@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: BRITE HOUSE DJ
     content: >
-      Featuring the best mobile sound and light displays in the Metro Boston
+      Featuring the **best** mobile sound and light displays in the Metro Boston
       Area.
     actions:
       - label: Learn More
