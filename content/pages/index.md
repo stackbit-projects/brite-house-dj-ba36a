@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Simple Floral Image Spring Quotes Instagram Post.png
+    image: >-
+      /images/Simple_Floral_Image_Spring_Quotes_Instagram_Post-removebg-preview.png
     image_alt: App preview
     title: Brite House DJ
     content: >
