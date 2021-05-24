@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: >-
-      /images/Simple_Floral_Image_Spring_Quotes_Instagram_Post__1_-removebg-preview.png
+      /images/Simple_Floral_Image_Spring_Quotes_Instagram_Post__2_-removebg-preview.png
     image_alt: App preview
     title: Brite House DJ
     content: >
