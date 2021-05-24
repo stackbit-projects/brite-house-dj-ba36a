@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/krys-amon-ttv1pX6tk7o-unsplash.jpg
+    image: /images/Simple Floral Image Spring Quotes Instagram Post.png
     image_alt: App preview
     title: Brite House DJ
     content: >
